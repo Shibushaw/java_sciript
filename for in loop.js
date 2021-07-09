@@ -12,3 +12,5 @@ let alien = {
 for (let key in alien.laptop){
 	console.log(key, alien.laptop[key]);
 }
+
+//shibu
