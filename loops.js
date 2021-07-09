@@ -1,4 +1,4 @@
-const person=[
+var person=[
 
 //objects are key value pair 
 {
@@ -22,11 +22,13 @@ const person=[
 
 //for loop
 
-for (let i = 0; i < person.length; i++){
-	console.log(person.name)
-};
-//for each
 /*
+
+for (let i = 0; i < person.length; i++){
+	console.log(person)
+};
+
+//for each
 person.forEach(function(i){
 	console.log(i.id)
 });
@@ -49,3 +51,7 @@ const filter_fun = person.filter(function(i){
 
 console.log(filter_fun);
 */
+
+for (let j  in person){
+	console.log(person[j])
+};
