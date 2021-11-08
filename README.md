@@ -1,3 +1,3 @@
 JAVA_SCRIPT
  
- Program examples with explnation
+Notes and program examples for test programns javascript learnings
