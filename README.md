@@ -1,3 +1,3 @@
 JAVA_SCRIPT
  
- Program expamples with explnation
+ Program examples with explnation
